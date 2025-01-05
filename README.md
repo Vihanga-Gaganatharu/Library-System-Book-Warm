@@ -52,5 +52,6 @@
 ### Installation
 1. **Clone the repository:**
    ```bash
-   -
+   https://github.com/Vihanga-Gaganatharu/Library-System-Book-Warm.git
+   ```
    cd book-warm
